@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","Login.css","News.css"],"names":[],"mappings":"AAAA,MACE,YACF,CCFA,cACE,eACF,CCFA,MACE,kBACF","file":"main.b9f9c837.chunk.css","sourcesContent":[".main {\n  padding: 20px;\n}",".form-control {\n  max-width: 400px;\n}",".card {\n  margin-bottom: 30px;\n}"]}
